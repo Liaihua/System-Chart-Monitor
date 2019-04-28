@@ -1,0 +1,10 @@
+C:\Users\Татьяна\source\repos\GraphForms\GraphForms\bin\Debug\GraphForms.exe.config
+C:\Users\Татьяна\source\repos\GraphForms\GraphForms\bin\Debug\GraphForms.exe
+C:\Users\Татьяна\source\repos\GraphForms\GraphForms\bin\Debug\GraphForms.pdb
+C:\Users\Татьяна\source\repos\GraphForms\GraphForms\obj\Debug\CPU_and_RAM_chart_monitor.csprojAssemblyReference.cache
+C:\Users\Татьяна\source\repos\GraphForms\GraphForms\obj\Debug\GraphForms.Form1.resources
+C:\Users\Татьяна\source\repos\GraphForms\GraphForms\obj\Debug\GraphForms.Properties.Resources.resources
+C:\Users\Татьяна\source\repos\GraphForms\GraphForms\obj\Debug\CPU_and_RAM_chart_monitor.csproj.GenerateResource.cache
+C:\Users\Татьяна\source\repos\GraphForms\GraphForms\obj\Debug\CPU_and_RAM_chart_monitor.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\source\repos\GraphForms\GraphForms\obj\Debug\GraphForms.exe
+C:\Users\Татьяна\source\repos\GraphForms\GraphForms\obj\Debug\GraphForms.pdb
